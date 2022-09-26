@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>malibu-web-app</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	
 	<name>malibu-web-app</name>
 
